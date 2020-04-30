@@ -1,5 +1,6 @@
 # BalancedLSM
-Code for landslide susceptibility mapping for paper titled "Handling data imbalance in landslide susceptibility mapping".
+
+# Code for landslide susceptibility mapping for paper titled "Handling data imbalance in landslide susceptibility mapping".
 
 The paper has been submitted to Computers and Geosciences, Elsevier with Reference Id: CAGEO_2020_377
 
