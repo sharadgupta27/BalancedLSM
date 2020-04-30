@@ -1,15 +1,15 @@
 # BalancedLSM - Code for data imbalance in landslide susceptibility mapping
 
-A paper titled "Handling data imbalance in landslide susceptibility mapping" has been submitted to Computers and Geosciences, Elsevier with Reference Id: CAGEO_2020_377.
+- A paper titled "Handling data imbalance in landslide susceptibility mapping" has been submitted to Computers and Geosciences, Elsevier with Reference Id: CAGEO_2020_377.
 
-The code is based on original codes of EasyEnsemble and BalanceCascade method developed by Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou, 2009
+- The code is based on original codes of EasyEnsemble and BalanceCascade method developed by Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou, 2009
 
-Please add "libsvm-mat-2.9-1" to MATLAB path.
+- Please add "libsvm-mat-2.9-1" to MATLAB path.
 
-All the codes and data is available inside the "MainCode" folder.
+- All the codes and data is available inside the "MainCode" folder.
 
-To obtain the results of the paper execute "demoEasyEnsemble.m" or "demoBalanceCascade.m"
+- To obtain the results of the paper execute "demoEasyEnsemble.m" or "demoBalanceCascade.m"
 
-Contact: Sharad Kumar Gupta (sharadgupta27@gmail.com)
+`Contact: Sharad Kumar Gupta (sharadgupta27@gmail.com)`
 
-Please do acknowledge if you are using this repository.
+`Please do acknowledge if you are using this repository.`
