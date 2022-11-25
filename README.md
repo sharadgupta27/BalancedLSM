@@ -1,6 +1,6 @@
 # BalancedLSM - Code for data imbalance in landslide susceptibility mapping
 
-- A paper titled "Handling data imbalance in landslide susceptibility mapping" has been submitted to Landslided, Springer with Reference Id: LASL-D-22-00551.
+- A paper titled "Handling data imbalance in machine learning based landslide susceptibility mapping: a case study of Mandakini River Basin, North-Western Himalayas" has been published in Landslides, Springer with DOI: 10.1007/s10346-022-01998-1.
 
 - The code is based on original codes of EasyEnsemble and BalanceCascade method developed by Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou, 2009
 
